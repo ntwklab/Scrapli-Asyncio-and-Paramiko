@@ -1,6 +1,6 @@
 from scrapli.driver.core import IOSXEDriver, NXOSDriver
 from scrapli_cfg import ScrapliCfg
-from test2_MT_cfg_inv import switches
+from multithreading_inv import switches
 import time
 from rich import print
 import queue
